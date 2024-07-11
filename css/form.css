@@ -1,0 +1,37 @@
+.contact-form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+.contact-form_block {
+  margin-bottom: 15px;
+}
+
+.contact-form_block label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contact-form_block input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.contact-form_action {
+  padding: 10px 15px;
+  border: none;
+  background: #28a745;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.contact-form_action:hover {
+  background: #218838;
+}

@@ -1,0 +1,27 @@
+
+.container {
+  padding: 100px 20px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #c4170c;
+}
+
+.header-title {
+  color: #ffffff;
+  text-align: center;
+}
+
+.main {
+  padding: 50px;
+}
+
+.main-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
